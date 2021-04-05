@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /?
+Sitemap: https://gpxstudio.github.io/sitemap.txt
